@@ -6,3 +6,4 @@ after user2,we commit
 user2 first commit
 user 2 add 1015,1315
 user2 add 1015,1316
+user2 add 1015,1321
